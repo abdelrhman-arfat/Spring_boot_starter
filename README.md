@@ -52,7 +52,10 @@ project-name/
 
 .env
 ```bash
+SPRING_PROFILES_ACTIVE=dev
+SPRING_DEVTOOLS_RESTART_ENABLED=true
 
+JWT_SECRET_KEY=
 ```
 
 ## Getting Started
